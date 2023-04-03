@@ -1,2 +1,2 @@
 # MultiplayerUnityWithSocket
- Ra tarafından hazırlanan networking paketi.
+ Unity için networking paketi.
